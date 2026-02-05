@@ -2,10 +2,11 @@
 
 * {
 	font-family: Arial;
+	color: white;
 }
 
 body {
-	backround-color: rgb(208, 28, 31);
+	backround-color: rgb(0, 0, 0);
 	margin: 100px auto;
 	width: 50%;
 }
