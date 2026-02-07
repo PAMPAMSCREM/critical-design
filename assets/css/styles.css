@@ -5,8 +5,15 @@
 	color: white;
 }
 
+.backgroundImage {
+	background-image: url(../img/TCLogo.png);
+	width: 400px;
+	height: 400px;
+	margin: 64px auto;
+}
+
 body {
-	backround-color: rgba(207, 21, 45)
+	backround-color: rgba(207, 21, 45); 
 	margin: 100px auto;
 	width: 50%;
 }
