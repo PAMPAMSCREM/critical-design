@@ -6,7 +6,13 @@
 }
 
 body {
-	backround-color: rgb(0, 0, 0);
+	backround-color: rgba(207, 21, 45)
 	margin: 100px auto;
 	width: 50%;
+}
+
+h1 {
+	color: black;
+	font-size: 48px;
+	text-align: center;
 }
