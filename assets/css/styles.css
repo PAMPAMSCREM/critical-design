@@ -5,15 +5,8 @@
 	color: white;
 }
 
-.backgroundImage {
-	background-image: url(../img/TCLogo.png);
-	width: 400px;
-	height: 400px;
-	margin: 64px auto;
-}
-
 body {
-	backround-color: rgba(207, 21, 45); 
+	backround-color: #cf152d;
 	margin: 100px auto;
 	width: 50%;
 }
@@ -22,4 +15,16 @@ h1 {
 	color: black;
 	font-size: 48px;
 	text-align: center;
+}
+
+.backgroundImage: {
+	background-image: url(../img/TCLogo.png);
+	width: 400px;
+	height: 400px;
+	margin: 64px auto;
+}
+
+.backgroundImage: hover{
+	background-image: url(../img/TCLogo.png);
+	cursor: crosshair;
 }
