@@ -22,6 +22,11 @@ font-size:2em;
 	margin: 64px auto;	
 }
 
+.backgroundImage: hover {
+	background-image: url(../img/clock.png);
+	cursor: crosshair; 
+}
+
 body {
 	backround-color: #cf152d;
 	margin: 100px auto;
@@ -55,11 +60,6 @@ h3 a:visited {
 
 h3 a:hover {
 	color: white;
-}
-
-.backgroundImage: hover{
-	background-image: url(../img/TCLogo.png);
-	cursor: crosshair;
 }
 
 a:hover {
