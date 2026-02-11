@@ -15,6 +15,13 @@ h1 {
 font-size:2em;
 }
 
+.backgroundImage {
+	background-image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+	margin: 64px auto;	
+}
+
 body {
 	backround-color: #cf152d;
 	margin: 100px auto;
@@ -48,13 +55,6 @@ h3 a:visited {
 
 h3 a:hover {
 	color: white;
-}
-
-.backgroundImage: {
-	background-image: url(../img/TCLogo.png);
-	width: 200px;
-	height: 200px;
-	margin: 64px auto;
 }
 
 .backgroundImage: hover{
